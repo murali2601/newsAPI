@@ -1,6 +1,8 @@
 News Tracking Application -  An API based request and response
 
-News Categories : Buisness ,Entertainment, General, Health, Science , Sports and Technology
+News Categories : Buisness ,Entertainment, General, Health, Science , Sports and Technology.
+
+Demonstration (YouTube) : https://youtu.be/pE98B9sCses?feature=shared
 
 Portfolio website : https://muralidharan.neltify.app
 
